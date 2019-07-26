@@ -102,3 +102,4 @@ float readTemp() {  // get the temperature and convert it to celsius
   //return temp * 0.48828125;
 }
 
+//EOF
