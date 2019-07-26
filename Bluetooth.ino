@@ -44,3 +44,6 @@ if(inputString == "C"){         //in case of 'C' turn the Bulb On
   }
 }
 
+//EOF
+
+
